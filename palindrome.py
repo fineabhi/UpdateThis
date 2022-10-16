@@ -4,5 +4,5 @@ def pal(num):
        print('palindrome')
     else:
        print('not a palindrome')
- 
-print(pal('edureka')) 
+  factorial
+print(pal('edureka'))
